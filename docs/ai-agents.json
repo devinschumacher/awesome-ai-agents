@@ -75,5 +75,12 @@
     "description": "CRM-focused automation tool for lead scoring, follow-up tasks, and multi-channel outreach.",
     "category": "CRM Automation",
     "order": 11
+  },
+  {
+    "name": "NotFair",
+    "url": "https://github.com/nowork-studio/NotFair",
+    "description": "Open-source Claude Code agent skills for SEO and paid ads, connecting to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.",
+    "category": "Marketing Automation",
+    "order": 12
   }
 ]
