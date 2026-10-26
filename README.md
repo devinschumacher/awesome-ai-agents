@@ -15,3 +15,4 @@
 | 9 | Gumloop | Advanced marketing-focused automation platform supporting workflows with multiple language models. | Marketing Automation | [Link]([https://gumloop.com](https://devinschumacher.github.io/ai-agents/best.html)) |
 | 10 | LangChain | Context-sensitive agents offering task chaining, memory handling, and integration with APIs/databases. | Task Automation Framework | [Link]([https://langchain.com](https://devinschumacher.github.io/ai-agents/best.html)) |
 | 11 | Salesforce Agentforce | CRM-focused automation tool for lead scoring, follow-up tasks, and multi-channel outreach. | CRM Automation | [Link]([https://salesforce.com/agentforce](https://devinschumacher.github.io/ai-agents/best.html)) |
+| 12 | Agent Payment Node | Local CLI and stdio MCP payment tools with owner-set limits, command-specific foreground approval, status and receipts; macOS Apple Silicon only. | Agent Payment Tools | [Link](https://github.com/nuanu-ai/agent-payment-node) |
